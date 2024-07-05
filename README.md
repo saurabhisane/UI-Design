@@ -91,22 +91,18 @@ shipshop/
 │   └── ...
 ├── pubspec.yaml
 └── README.md
-test/
-│   └── ...
-├── pubspec.yaml
-└── README.md
 
+## Screens
 
-##Screens
+### lib/screens/
 
-lib/screens/
-├── address_screen.dart
-├── cart_screen.dart
-├── home_screen.dart
-├── login_screen.dart
-├── payment_method_screen.dart
-├── profile_screen.dart
-├── recovery_screen.dart
-├── signup_screen.dart
-└── splash_screen.dart
+- `address_screen.dart`: Screen for managing user addresses.
+- `cart_screen.dart`: Screen displaying the shopping cart contents.
+- `home_screen.dart`: Main screen showing product categories and featured items.
+- `login_screen.dart`: Screen for user authentication and login.
+- `payment_method_screen.dart`: Screen for selecting and managing payment methods.
+- `profile_screen.dart`: Screen for managing user profiles and order history.
+- `recovery_screen.dart`: Screen for password recovery and resetting.
+- `signup_screen.dart`: Screen for new user registration and account creation.
+- `splash_screen.dart`: Splash screen displayed when the app is launched.
 
