@@ -1,2 +1,2 @@
-# UI-Design-
+# UI-Design
 E-Commerce App User Interface
