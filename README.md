@@ -21,7 +21,7 @@ ShipShop is a versatile Flutter-based e-commerce application designed to provide
 </p>
 <p align="center">
   <img src="asset/screenshots/payment-screen.png" width="30%" alt="Payment Screen">
-  <img src="asset/screenshots/Address-screen.png" width="30%" alt="Address Screen">
+  <img src="asset/screenshots/address-screen.png" width="30%" alt="Address Screen">
   <img src="asset/screenshots/Login-screen.png" width="30%" alt="Login Screen">
 </p>
 
