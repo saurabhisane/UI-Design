@@ -1,2 +1,2 @@
 # UI-Design
-E-Commerce App User Interface
+ShipShop : An E-Commerce App ( User Interface )
