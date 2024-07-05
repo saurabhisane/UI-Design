@@ -58,33 +58,55 @@ To run this project on your local machine, follow these steps:
 shipshop/
 ├── lib/
 │   ├── screens/
-│   │   ├── home_screen.dart
-│   │   ├── product_details_screen.dart
+│   │   ├── address_screen.dart
 │   │   ├── cart_screen.dart
-│   │   ├── payment_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── login_screen.dart
+│   │   ├── payment_method_screen.dart
 │   │   ├── profile_screen.dart
-│   │   └── ...
+│   │   ├── recovery_screen.dart
+│   │   ├── signup_screen.dart
+│   │   └── splash_screen.dart
 │   ├── widgets/
+│   │   ├── container_button_modal.dart
 │   │   ├── product_card.dart
-│   │   ├── cart_item.dart
-│   │   ├── payment_option.dart
+│   │   ├── product_details_popup.dart
 │   │   └── ...
 │   ├── models/
-│   │   ├── product.dart
 │   │   ├── user.dart
+│   │   ├── product.dart
 │   │   └── ...
+│   ├── constants.dart
 │   ├── main.dart
-│   └── constants.dart
+│   └── ...
 ├── assets/
 │   ├── images/
-│   │   └── screenshots/
-│   │       ├── home_screen.png
-│   │       ├── product_details_screen.png
-│   │       ├── cart_screen.png
-│   │       ├── payment_screen.png
-│   │       ├── profile_screen.png
-│   │       └── settings_screen.png
+│   │   ├── amazon_pay.png
+│   │   ├── visa.png
+│   │   ├── master.png
+│   │   ├── icon2.png
+│   │   ├── paypal.png
+│   │   └── freed.png
 ├── test/
 │   └── ...
 ├── pubspec.yaml
 └── README.md
+test/
+│   └── ...
+├── pubspec.yaml
+└── README.md
+
+
+##Screens
+
+lib/screens/
+├── address_screen.dart
+├── cart_screen.dart
+├── home_screen.dart
+├── login_screen.dart
+├── payment_method_screen.dart
+├── profile_screen.dart
+├── recovery_screen.dart
+├── signup_screen.dart
+└── splash_screen.dart
+
